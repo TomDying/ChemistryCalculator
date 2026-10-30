@@ -554,7 +554,7 @@ def periodic_table():
 
 def home():
 
-    st.title("⚗️ Chemistry Calculator Hub")
+    st.title("⚗️ Chemistry Hub")
 
     st.markdown(
         '<p style="color:#94A3B8;">'
@@ -640,7 +640,7 @@ def home():
             st.markdown("## 📚 Chemistry Tools")
 
             st.markdown(
-                "More chemistry calculators can be added here "
+                "More chemistry things can be added here "
                 "in future updates."
             )
 
