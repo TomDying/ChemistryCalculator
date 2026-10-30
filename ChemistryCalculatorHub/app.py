@@ -9,7 +9,7 @@ from pathlib import Path
 # ==========================================================
 
 st.set_page_config(
-    page_title="Chemistry Calculator Hub",
+    page_title="Chemistry Hub Hub",
     page_icon="⚗️",
     layout="wide",
     initial_sidebar_state="collapsed"
